@@ -1,4 +1,4 @@
-<div style="bgcolor:black; color:blue">
+<div style="bgcolor:black; text:blue">
 <h1> Hi there 👋</h1>
 <h2> I'm Athul Jose Liju [metanoid46]🤖</h2>
 <h3>Currently, I'm trying to learn:<br />
