@@ -2,7 +2,7 @@
 ### I'm Athul Jose Liju [metanoid46]🤖
 <h3>Currenlty im trynig to figure out: <br />
 -Making Webapps <br/>
--machine Learning and Big Data MAnagement <br/>
+-machine Learning and Big Data Management <br/>
 -Learning Low level Programming <bv/></h3>
 <h4>Currently I'm a studying at UOW figuring out my way through the world of progrramming and devolopment</h4>
 
