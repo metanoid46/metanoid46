@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Athul Jose Liju [metanoid46]🤖
-<div>
+<div style= "display:flex;">
   <div>
 <h3>Currenlty im trynig to learn: <br />
 -Making Webapps <br/>
