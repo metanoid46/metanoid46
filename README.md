@@ -7,7 +7,7 @@
 -machine Learning and Big Data Management <br/>
 -Learning Low level Programming <bv/></h3>
   <div>
-  <img src="https://i.postimg.cc/wBTHSBGc/18ea9f24-7231-47a5-82e8-c76ac7d1bc2b.jpg" style="height:60px; width:60px;" />
+  <img src="https://i.postimg.cc/wBTHSBGc/18ea9f24-7231-47a5-82e8-c76ac7d1bc2b.jpg" style="height:120px; width:120px;" />
   </div>
   </div>
   </div>
