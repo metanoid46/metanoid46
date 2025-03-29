@@ -1,12 +1,14 @@
 
 <h1> Hi there 👋</h1>
 <h2> I'm Athul Jose Liju [metanoid46]🤖</h2>
+<h4>Currently, I'm studying at UOW, figuring out my way through the world of programming and development.</h4>
+
 <h3>Currently, I'm trying to learn:<br />
 - Making Web Apps<br />
 - Machine Learning and Big Data Management<br />
 - Low-Level Programming<br /></h3>
 
-<h4>Currently, I'm studying at UOW, figuring out my way through the world of programming and development.</h4>
+
 
 
 <!--
