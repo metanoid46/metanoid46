@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Athul Jose Liju [metanoid46]🤖
-h3>Currently, I'm trying to learn:<br />
+<h3>Currently, I'm trying to learn:<br />
 - Making Web Apps<br />
 - Machine Learning and Big Data Management<br />
 - Low-Level Programming<br /></h3>
