@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Athul Jose Liju [metanoid46]🤖
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; flex-direction:row;">
     <div>
         <h3>Currently, I'm trying to learn:<br />
         - Making Web Apps<br />
