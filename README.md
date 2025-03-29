@@ -1,3 +1,4 @@
+<div style="bgcolor:black;">
 ## Hi there 👋
 ### I'm Athul Jose Liju [metanoid46]🤖
 <h3>Currently, I'm trying to learn:<br />
@@ -7,7 +8,7 @@
         
 
 <h4>Currently I'm a studying at UOW figuring out my way through the world of progrramming and devolopment</h4>
-
+</div>
 
 
 
