@@ -1,17 +1,13 @@
-<div style="bgcolor:black; text:blue">
+<div style="background-color:black; color:blue; padding: 20px; border-radius: 10px;">
 <h1> Hi there 👋</h1>
 <h2> I'm Athul Jose Liju [metanoid46]🤖</h2>
 <h3>Currently, I'm trying to learn:<br />
 - Making Web Apps<br />
 - Machine Learning and Big Data Management<br />
 - Low-Level Programming<br /></h3>
-        
 
-<h4>Currently I'm a studying at UOW figuring out my way through the world of progrramming and devolopment</h4>
+<h4>Currently, I'm studying at UOW, figuring out my way through the world of programming and development.</h4>
 </div>
-
-
-
 
 <!--
 **metanoid46/metanoid46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
