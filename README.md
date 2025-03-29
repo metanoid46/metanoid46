@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm Athul Jose Liju [metanoid46]🤖
 
+<h4>Currently im a Studying at UOW figuring out my way through the world of progrramming and devolopment</h4>
 
 
 
