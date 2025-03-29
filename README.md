@@ -1,4 +1,4 @@
-<div style="background-color:black; color:blue; padding: 20px; border-radius: 10px;">
+<div style="background-color:white; color:blue; padding: 20px; border-radius: 10px;">
 <h1> Hi there 👋</h1>
 <h2> I'm Athul Jose Liju [metanoid46]🤖</h2>
 <h3>Currently, I'm trying to learn:<br />
