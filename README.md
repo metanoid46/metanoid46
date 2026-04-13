@@ -1,4 +1,17 @@
 ![Header](https://raw.githubusercontent.com/metanoid46/metanoid46/main/header.png)
+
+# About Me
+
+I’m a Computer Science graduate from the University of Wollongong with a strong interest in building scalable systems and becoming a Machine Learning Engineer.
+
+I enjoy working across both backend systems and data-driven applications, combining software engineering with machine learning to solve real-world problems.
+
+💡 What I’m Currently Focused On
+📊 Machine Learning & AI (end-to-end systems)
+⚙️ Backend development (APIs, system design, integrations)
+☁️ Building scalable and production-ready applications
+📈 Improving my understanding of ML fundamentals (math + implementation)
+
 <p align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
