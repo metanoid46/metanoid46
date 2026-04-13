@@ -1,6 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Athul Jose Liju
-========================================================================================================================================
-
+![My Image]((https://raw.githubusercontent.com/metanoid46/metanoid46/main/assets/my-image.png)
 <p align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
