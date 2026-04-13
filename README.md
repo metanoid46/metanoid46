@@ -70,5 +70,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-[![GitHub Trends SVG](https://api.githubtrends.io/metanoid46/svg/avgupta456/langs)](https://githubtrends.io)
