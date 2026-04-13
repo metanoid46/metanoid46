@@ -13,7 +13,7 @@ Ability to design and develop scalable backend systems and APIs <br/>
 Hands-on experience with big data tools and distributed computing (PySpark) <br/>
 Focus on writing clean, maintainable, and production-ready code <br/>
 
-
+## TECH
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
