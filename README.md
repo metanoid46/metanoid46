@@ -71,4 +71,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </picture>
 
 ###
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/metanoid46/svg/avgupta456/langs)](https://githubtrends.io)
