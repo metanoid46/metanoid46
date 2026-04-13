@@ -19,9 +19,10 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
     </td>
   </tr>
 </table>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 -------
 Quote of the Day
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark).]
+
 [![](https://komarev.com/ghpvc/?username=metanoid46&icon=4&color=1)](https://visitcount.itsvg.in)
 
