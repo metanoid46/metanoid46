@@ -3,7 +3,7 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
 
 <p align="center">
 
-##STACK
+## STACK
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,7 +38,7 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </p>
 
-##STATS
+## STATS
 <table>
   <tr>
     <td align="center">
@@ -54,7 +54,7 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
 </table>
 
 
-##QUOTES
+## QUOTES
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
