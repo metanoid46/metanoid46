@@ -34,12 +34,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </p>
 
-## Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
-</picture>
 
 ## STATS
 <table>
@@ -51,12 +45,18 @@
       <img src="https://streak-stats.demolab.com/?user=metanoid46&theme=dark&hide_border=false" />
     </td>
   </tr>
+
   <tr>
-    <td>
-     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </td>
   </tr>
 </table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## QUOTES
