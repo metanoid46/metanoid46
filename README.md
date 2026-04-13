@@ -2,8 +2,6 @@
 I’m currently working on local A.I environment<br>I’m currently learning Docker and Kubernetes
 
 
-<h3 align="center"> Tech Stack</h3>
-
 <p align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -39,7 +37,6 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </p>
 
-<h3 align="center"> GitHub Stats: </h3>
 
 <table>
   <tr>
