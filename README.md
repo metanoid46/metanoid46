@@ -65,10 +65,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/metanoid46/metanoid46/output/pacman-contribution-graph.svg">
-</picture>
+![snake gif](https://github.com/metanoid46/metanoid46/blob/output/github-snake-dark.svg)
 
 ###
