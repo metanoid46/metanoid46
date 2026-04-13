@@ -2,6 +2,20 @@
 I’m currently working on local A.I environment<br>I’m currently learning Docker and Kubernetes
 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=metanoid46&theme=dark&hide_border=false" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,22 +50,6 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </p>
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=metanoid46&theme=dark&hide_border=false" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=metanoid46&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
-## 💭 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
