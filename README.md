@@ -12,7 +12,7 @@ I enjoy working across both backend systems and data-driven applications, combin
 ☁️ Building scalable and production-ready applications <br/>
 📈 Improving my understanding of ML fundamentals (math + implementation) <br/>
  <br/>
-<p align="center">
+
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,7 +45,7 @@ I enjoy working across both backend systems and data-driven applications, combin
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-</p>
+
 
 
 ## STATS
