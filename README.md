@@ -2,16 +2,16 @@
 
 # About Me
 
-I’m a Computer Science graduate from the University of Wollongong with a strong interest in building scalable systems and becoming a Machine Learning Engineer.
+I’m a Computer Science graduate from the University of Wollongong focused on building scalable, production-ready systems with a strong foundation in machine learning and backend engineering.
 
-I enjoy working across both backend systems and data-driven applications, combining software engineering with machine learning to solve real-world problems.
+I specialize in turning data into actionable insights and deploying reliable systems that solve real-world problems.
 
-💡 What I’m Currently Focused On <br/>
-📊 Machine Learning & AI (end-to-end systems)  <br/>
-⚙️ Backend development (APIs, system design, integrations)  <br/>
-☁️ Building scalable and production-ready applications <br/>
-📈 Improving my understanding of ML fundamentals (math + implementation) <br/>
- <br/>
+What I Bring
+Strong foundation in machine learning algorithms and data processing <br/>
+Experience building end-to-end ML pipelines (data → model → evaluation) <br/>
+Ability to design and develop scalable backend systems and APIs <br/>
+Hands-on experience with big data tools and distributed computing (PySpark) <br/>
+Focus on writing clean, maintainable, and production-ready code <br/>
 
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
