@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Athul Jose Liju
 I’m currently working on local A.I environment<br>I’m currently learning Docker and Kubernetes
 
 <p align="center">
