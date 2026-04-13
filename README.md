@@ -19,10 +19,15 @@ I’m currently working on local A.I environment<br>I’m currently learning Doc
     </td>
   </tr>
 </table>
--------
-Quote of the Day
+## 💭 Quote of the Day
 
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark).]
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
-[![](https://komarev.com/ghpvc/?username=metanoid46&icon=4&color=1)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://komarev.com/ghpvc/?username=metanoid46&icon=4" />
+  </a>
+</p>
 
